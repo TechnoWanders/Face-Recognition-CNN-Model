@@ -1,2 +1,2 @@
 # UPCOMING-- Image-Classification-CNN-Model
-Building a CNN Architecture that can detect the faces of its authors with maximum accuracy possible . A trial project which will focus on learning of various components of CNN models.
+Building an interactive machine learning algo by using Django as backend server users will input image out of 11 classes. 
